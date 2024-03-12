@@ -1,12 +1,12 @@
 html {
 	font-size:16px;
-    font-family: Inter, 'Source Sans Pro';
+    font-family: Inter;
 }
 
 .container {
     position: relative;
     width: 940px; 
-    height: 1100px;
+    height: 1200px;
     margin: 0 auto; 
     margin-top: 20px; 
 }
@@ -36,7 +36,7 @@ html {
     height: 119px;
     background: #EBEDE5;
     position: absolute;
-    bottom: -28px;
+    bottom: 72px;
     left: 0px;
     overflow: hidden;
     
@@ -146,4 +146,91 @@ img {
     color: #959987;
     margin-top: -40px;
     margin-left: 110px;
+}
+
+.textCapsRectangleWhite1{
+    margin-left: 40px;
+    margin-top: 255px;
+    color: #757969;
+    font-size: 26px;
+}
+
+.headerTopRectangleWhite1{
+    margin-left: 40px;
+    margin-top: -10px;
+    color: #757969;
+    font-size: 18px;
+}
+
+.headerBottomRectangleWhite1{
+    margin-left: 40px;
+    margin-top: -10px;
+    color: #444440;
+}
+
+.ListWhite1{
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    color: #757969
+}
+
+.headerTopRectangleWhite2{
+    margin-left: 40px;
+    margin-top: -10px;
+    color: #757969;
+    font-size: 18px;
+}
+
+.headerBottomRectangleWhite2{
+    margin-left: 40px;
+    margin-top: -10px;
+    color: #444440;
+}
+
+.headerTopRectangleWhite3{
+    margin-left: 40px;
+    margin-top: -10px;
+    color: #757969;
+    font-size: 18px;
+}
+
+.headerBottomRectangleWhite3{
+    margin-left: 40px;
+    margin-top: -10px;
+    color: #444440;
+}
+
+.textCapsRectangleWhite2{
+    margin-left: 40px;
+    margin-top: 20px;
+    color: #757969;
+    font-size: 26px;
+}
+
+.headerTopRectangleWhite4{
+    margin-left: 40px;
+    margin-top: -10px;
+    color: #757969;
+    font-size: 18px;
+}
+
+.headerBottomRectangleWhite4{
+    margin-left: 40px;
+    margin-top: -10px;
+    color: #444440;
+}
+
+.headerTopRectangleWhite5{
+    margin-left: 40px;
+    margin-top: -10px;
+    color: #757969;
+    font-size: 18px;
+}
+
+.headerBottomRectangleWhite5{
+    margin-left: 40px;
+    margin-top: -10px;
+    color: #444440;
 }
