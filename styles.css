@@ -44,7 +44,7 @@ html {
 
 .rectangleTop {
     width: 515px;
-    height: 150px;
+    height: 187px;
     background: #B2B6A4;
     position: absolute;
     top: 50px;
@@ -132,4 +132,18 @@ img {
     margin-left: 600px;
     margin-top: -35px;
     color: #757969;
+}
+
+.textTop1{
+    font-size: 64px;
+    color: #636659;
+    margin-top: 30px;
+    margin-left: 23px;
+}
+
+.textTop2{
+    font-size: 23px;
+    color: #959987;
+    margin-top: -40px;
+    margin-left: 110px;
 }
