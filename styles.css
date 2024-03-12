@@ -1,0 +1,117 @@
+html {
+	font-size:16px;
+    font-family: Inter, 'Source Sans Pro';
+}
+
+.container {
+    position: relative;
+    width: 940px; 
+    height: 1100px;
+    margin: 0 auto; 
+    margin-top: 20px; 
+}
+
+.rectangleGreen {
+    width: 425px;
+    height: 1009px;
+    background: #959987;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+
+.rectangleWhite {
+    width: 515px;
+    height: 1009px;
+    background: #FCF9F4;
+    position: absolute;
+    top: 0px;
+    left: 425px;
+    overflow: hidden;
+}
+
+.rectangleBottom {
+    width: 940px;
+    height: 119px;
+    background: #EBEDE5;
+    position: absolute;
+    bottom: -28px;
+    left: 0px;
+    overflow: hidden;
+    
+}
+
+.rectangleTop {
+    width: 515px;
+    height: 150px;
+    background: #B2B6A4;
+    position: absolute;
+    top: 50px;
+    right: 0;
+    overflow: hidden;
+}
+
+img {
+    position: relative; 
+    top: 75px; 
+    left: 50px; 
+    width: 317px;
+    height: 341px;
+}
+
+.Line1{
+    height: 1px;
+    margin-top: -20px;
+    border: 0;
+    background-color: #B2B6A4;
+}
+
+.Line2{
+    height: 1px;
+    margin-top: -20px;
+    border: 0;
+    background-color: #B2B6A4;
+}
+
+.Line3{
+    height: 1px;
+    margin-top: -20px;
+    border: 0;
+    background-color: #B2B6A4;
+}
+
+.List1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 35px;
+    color: #EBEDE5;
+}
+
+.textCapsRectangleGreen1 {
+    margin-left: 90px;
+    margin-top: 110px;
+    color: #ffffff;
+    font-size: 26px;
+}
+
+.textCapsRectangleGreen2 {
+    margin-left: 90px;
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 26px;
+}
+
+.textCapsRectangleGreen3 {
+    margin-left: 90px;
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 26px;
+}
+
+.defaultTextRectangleGreen1 {
+    margin-left: 60px;
+    margin-right: 50px;
+    margin-top: 20px;
+    color: #EBEDE5;
+}
